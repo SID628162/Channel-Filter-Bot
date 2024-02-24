@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
+API_ID       = 27956463
+API_HASH     = "ab3cc18e5286dd5761e433de3d3e7b3c"
 BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+SESSION      = "BQGqlO8ACNCP_Dthv1kQsultGFC-sAtkWIqDwuegSRIVObEXApAYh9h5ELIlUYc7qxYW3jiGllGv2wc1lu83oEscw5V_4RYx_C2UbO_ceLzu-mVWZRaLz9MDYpgt5OLDzIx27PAb1_HLYg-0lTEupwn-n8iaR_MtieLQLzGM2yIT3MMa73840bEZErwANC-biBqzJWMrQBi0mY6Tfr3tamLACGIZS59DDLtYMDDNgkykxt_ycGIQALBMBOji1h36k8Y3bEumD_J2uh5FsapnmWVSVYndDFu_MFkN3dvVB3e50FXhnQiFzv4cAdh7eYYMCRu6UYO46BoqJU0kW1vH7FPEEv6_-AAAAAB0RLlJAA"
+DATABASE_URI = "mongodb+srv://sid628162:bgTwojGPtbBtRg0L@sdmovie.qx3o2yi.mongodb.net/?retryWrites=true&w=majority&appName=SDMovie"
+LOG_CHANNEL  = -1001853745008
+ADMIN        = 1950660937
+CHANNEL      = "@SD_Movie_Official"
