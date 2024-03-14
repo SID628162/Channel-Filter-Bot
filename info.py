@@ -1,8 +1,8 @@
-API_ID       = 
+API_ID       = 27956463
 API_HASH     = ""
 BOT_TOKEN    = ""
 SESSION      = ""
 DATABASE_URI = ""
-LOG_CHANNEL  = 
-ADMIN        = 
+LOG_CHANNEL  = -1001853745008
+ADMIN        = 1950660937
 CHANNEL      = ""
